@@ -1,4 +1,4 @@
-# FiveM Native Simple Voice Proxmity Range Marker
+# FiveM Native Simple Voice Proximity Range Marker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Teezy-Core/teezy-vpRange/blob/main/LICENSE)
 
 This is a Lua script for the FiveM that enables the creation of proximity markers for players based on their distance from the player character. The script utilizes the Mumble voice chat plugin to determine the distance between players and creates a marker if the players are within a certain proximity range.
